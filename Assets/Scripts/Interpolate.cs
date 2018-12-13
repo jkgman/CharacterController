@@ -5,6 +5,7 @@ using UnityEngine;
 public class Interpolate : MonoBehaviour {
     Vector3 v0, v1;
     Quaternion q0, q1;
+    //ad scale
     float t0, t1;
     public bool interpolate = true;
 
